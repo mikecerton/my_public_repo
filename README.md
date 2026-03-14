@@ -1,4 +1,4 @@
 # my_public_repo
 hello world
 test
-test_02 for test conflict
+just fix and resolve git conflict
