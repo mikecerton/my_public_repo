@@ -1,4 +1,4 @@
 # my_public_repo
 hello world
 test
-main edit to make git conflict
+edit in branch: branch_2 to make git conflict
